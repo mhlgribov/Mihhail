@@ -1,0 +1,4 @@
+print ('Hello Mihhail')
+
+txt = ('Hello Mihhail')
+print(txt)
